@@ -1,1 +1,1 @@
-print("Hello World Jackson adn Britan!")
+print("Hello World Jackson and Britan!")
